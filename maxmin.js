@@ -17,7 +17,7 @@ function smallestNumberFromArray(array) {
   return smallestNumber;
 }
 
-function biggestNumberFromArray(array, n) {
+function biggestNumberFromArray(array) {
   let biggestNumberSoFar = array[0];
   let biggestNumber;
   for (let i = 0; i < array.length; i++) {
