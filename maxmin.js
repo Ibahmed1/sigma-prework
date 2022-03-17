@@ -37,5 +37,5 @@ function smallestAndLargestNumber(array) {
   return smallestAndLargestNumbers;
 }
 
-console.log(smallestAndLargestNumber((array1));
+console.log(smallestAndLargestNumber(array1));
 console.log(smallestAndLargestNumber(array2));
